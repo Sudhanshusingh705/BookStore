@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 
-.navbar{
+/* .navbar{
     display: flex;
     background-color:rgb(60, 124, 197);
     position: fixed;
@@ -121,7 +121,7 @@ body {
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+} */
 
 
 /* General styles for both desktop and mobile */
